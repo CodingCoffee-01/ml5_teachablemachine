@@ -1,2 +1,2 @@
 # ml5_teachablemachine codingcoffee 
-demo : https://chiyanglin-astar.github.io/ml5_teachablemachine/
+demo : https://codingcoffee-01.github.io/ml5_teachablemachine/
